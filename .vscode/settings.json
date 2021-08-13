@@ -1,9 +1,10 @@
 {
-    "files.associations": {
-        "*.js": "javascript",
-        "*.html": "html"
-    },
-    "[javascript]": {        
-        "editor.defaultFormatter": "dsznajder.es7-react-js-snippets"
-    }
+  "files.associations": {
+    // "*.js": "javascript",
+    "*.html": "html"
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
 }
